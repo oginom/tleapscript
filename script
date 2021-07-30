@@ -1,4 +1,3 @@
 #!/bin/sh
 
-
-aplay /dev/urandom
+exit 0
